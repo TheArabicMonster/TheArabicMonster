@@ -6,6 +6,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FD428D&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast" alt="Typing SVG" />
 
 ---
+## 📊 GitHub Stats:
+
+![](https://nirzak-streak-stats.vercel.app/?user=TheArabicMonster&theme=radical&hide_border=true)<br/>
+
+---
 
 ## 💻 Tech Stack:
 
@@ -60,12 +65,6 @@
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-
----
-
-## 📊 GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=TheArabicMonster&theme=radical&hide_border=true)<br/>
 
 ---
 
